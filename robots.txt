@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /crop-to-opaque/crop-to-opaque.zip
+
+Sitemap: https://developer71240.github.io/sitemap.xml
